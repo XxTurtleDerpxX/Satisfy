@@ -1,0 +1,12 @@
+name: Satisfy
+version: 1.0
+author: iTurtleDerp
+load: STARTUP
+database: false
+main: me.iTurtleDerp.Satisfy.Main
+description: Allows players to quickly heal and feed themselves!
+commands:
+  heal:
+    description: Heal yourself!
+  feed:
+    description: Feed yourself!
